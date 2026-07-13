@@ -43,8 +43,8 @@ It demonstrates skills in **data preprocessing, feature engineering, model train
 ---
 
 ## 📈 Results
-- Achieved **X% accuracy** and **Y% ROC‑AUC** on test data.  
-- Random Forest outperformed Logistic Regression in predictive power.  
+- Achieved **96% accuracy** and **98% ROC‑AUC** on test data.  
+- Random Forest outperformed Logistic Regression in predictive power.But still i have selected Logistic Regression model as my final model due to its reliability and coefficients. 
 - Feature importance analysis highlighted **income, loan amount, and DTI** as key predictors.  
 
 ---
